@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 🤝 I’m looking for a **On-Site job**
+- 🤝 I’m looking for a **On-Site / Remote job**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-website-sigma-dusky.vercel.app/](https://my-portfolio-website-sigma-dusky.vercel.app/)
 
