@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashequr Rahman</h1>
-<h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
 - 🤝 I’m looking for a **On-Site / Remote job**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-sigma-dusky.vercel.app/](https://my-portfolio-website-sigma-dusky.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ashequrrahmanportfolio.vercel.app/](https://ashequrrahmanportfolio.vercel.app/)
 
 - 💬 Ask me anything related to **Javascript/Typescript OR React/Next/Express/redux,**
 
