@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/v2/D4E16AQGCZbOJdi3GLw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727890665244?e=1738800000&v=beta&t=JuJKO3nTaEqMMztd0nwrTT7nf1-4EDxwptJDo-sReaY)
+<p><img alt="banner" src="https://media.licdn.com/dms/image/v2/D4E16AQGCZbOJdi3GLw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727890665244?e=1738800000&v=beta&t=JuJKO3nTaEqMMztd0nwrTT7nf1-4EDxwptJDo-sReaY" /></p>
 
 <h1 align="center">Hi 👋, I'm Ashequr Rahman</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
