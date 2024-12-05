@@ -14,8 +14,9 @@
 - 📫 How to reach me **ashequrrahman3333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asheque33)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashequrrahmansakib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashequrrahmanportfolio.vercel.app/)<p/>
-
+<p align="left">
+<a href="https://linkedin.com/in/ashequrrahmansakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashequrrahmansakib" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
