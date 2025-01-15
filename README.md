@@ -1,7 +1,7 @@
 <p><img alt="banner" src="https://media.licdn.com/dms/image/v2/D5616AQHYArhZ9l0_LQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733835998021?e=1739404800&v=beta&t=ETZN5pHu-OUL9XlqGL9_p1_qG8Fsa4POLeLRnw7_HNc" /></p>
 
 <h1 align="center">Hi 👋, I'm Ashequr Rahman</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
