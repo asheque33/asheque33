@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashequr Rahman</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **PostgreSQL+Prisma with Nest.js**
 
 - 🤝 I’m looking for a **On-Site / Remote job**
 
